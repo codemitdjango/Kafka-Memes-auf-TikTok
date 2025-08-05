@@ -1,8 +1,5 @@
-# Data for Project Work at Leipzig University
-Summer Term 2025
-
-## Kafka Memes on TikTok
-This repository contains the data material for a term paper in the Digital Humanities program at Leipzig University, created within the framework of the seminar "Aktuelle Trends in den Digital Humanities: KAfka im digitalen Spiel"
+# Kafka Memes on TikTok
+This repository contains the data material for a term paper in the Digital Humanities program at Leipzig University, created within the framework of the seminar "Aktuelle Trends in den Digital Humanities: Kafka im digitalen Spiel"
 
 ## Repository Content
 - 32 TikTok videos (`.mp4`):
